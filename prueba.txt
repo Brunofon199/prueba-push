@@ -1,0 +1,1 @@
+este es un texto con el que se abren los archivos .txt
